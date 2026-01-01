@@ -1,6 +1,7 @@
 Hi, I'm Yousuf 👋
 
-Computer Science & Engineering undergraduate | KIIT University 
+Computer Science & Engineering undergraduate | KIIT University
+
 Developer | Designer
 
  🚀 Current Interests

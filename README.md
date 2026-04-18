@@ -1,13 +1,11 @@
 Hi, I'm Yousuf 👋
 
-Computer Science & Engineering undergraduate | KIIT University
+CSE Undergrad @ KIIT University
 
 Developer | Designer
 
- 🚀 Current Interests
-- Web Development  
-- Machine Learning  
-- Data Structures & Algorithms (DSA)
+
+ Full Stack | Machine Learning | DSA
 
  💻 Tech Stack
 

@@ -60,7 +60,7 @@
 ---
 
 ### 📈 Opportunities
-Open to **Summer 2025 internships** in:
+Open to **Summer 2026 internships** in:
 - AI/ML  
 - Software Engineering  
 - Data Science

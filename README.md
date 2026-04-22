@@ -54,7 +54,8 @@
 - 📘 Data Science with Python — Coincent (2023)
 - 📘 Deloitte Australia - Data Analytics (2025)
 - 📊 Business for Good: Fundamentals of Corporate Responsibility — London Business School, Coursera (2026)
-- 📊 Corporate Governance — Coursera (2026) 
+- 📊 Corporate Governance — Coursera (2026)
+- 📊 Ethical Decision Making for Success in the Tech Industry - University of Colorado Boulder, Coursera (2026)
 - 🎯 Graphs Programming Camp — Algo University (2025)
 
 ---

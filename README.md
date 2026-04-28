@@ -15,10 +15,10 @@
 ### 🚀 Projects
 
 #### ⚽ CruxTube 
-> A full-stack web app using React and Node.js/Express that summarizes any YouTube video instantly via Gemini AI  
-- Supports any language with transcripts (Hindi, Spanish, Arabic, French) — handled natively by Gemini's multilingual understanding 
-- A Chrome Extension (Manifest V3) that injects a summary panel directly into YouTube pages, no tab switching needed 
-- Engineered a REST API backend that fetches transcripts using YouTube Transcript API and pipes them through Gemini for AI summaries + fact verificatio  
+> A full-stack AI web application that summarizes YouTube videos and playlists and enables contextual chat using transcript-based understanding.
+- Built an end-to-end system using React and Node.js/Express that extracts transcripts (yt-dlp/Whisper fallback) and generates concise summaries using LLMs
+- Implemented context-aware chat by retrieving relevant transcript chunks, enabling users to query videos efficiently
+- Added multilingual support with optional translation to original language, and language-aware chat responses 
 
 ---
 
